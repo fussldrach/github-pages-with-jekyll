@@ -1,13 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Nur eine fusselige Baustelle
+author: fussldrach
+email: greebo173@gmx.de
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  There's nothing awesome about "my new site". You can just start to dampen down your 
+  excitement (or your sarcasm - whichever)
+  Apparently this does something to the "head"-Section in the index.html. 
+  Now that is a file I would like to access! But I guess I'll better go on tinkering with this here while I am newbie-status
+  "You can edit this line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description."
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  fussldrach
 
 show_excerpts: true # set to false to remove excerpts on the homepage
