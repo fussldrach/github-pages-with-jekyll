@@ -1,5 +1,5 @@
 ---
-title: "Let's have a title for that post!"
+title: "this post's title is "a title for that post""
 date: 2020-06-19
 ---
 ...so this is what a correct date convention on an .md-file looks like: YYYY-MM-DD. 
